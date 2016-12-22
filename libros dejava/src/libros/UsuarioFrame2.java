@@ -29,6 +29,7 @@ public class UsuarioFrame2 extends JFrame{
 			BufferedReader br = new  BufferedReader(new FileReader("usuarios.txt"));
 			String linea= br.readLine();
 			int numFilas=Integer.parseInt(linea);
+			//error en este parseo
 			data= new Object [numFilas][4];
 			for(int i=0;i<numFilas;i++){
 				linea=br.readLine();
