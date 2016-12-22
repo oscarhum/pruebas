@@ -1,0 +1,4 @@
+andres;rodrigues;andres@poligran.edu.co;18
+juan;hernandes;juan@poligran.edu.co;20
+maria;castro;maria@poligran.edu.co;30
+david;peña;david@poligran.edu.co;26
